@@ -1,6 +1,6 @@
 PHP-MySql based Invenotry Manegement System
 ==========================================================
-(This is a university course based project. So that it is not commpleted. If you wantn to use that, just take your responsibility to update according your criteria. So that this project coded by procedural way of PHP and MySql. But I used functions to omake this coding reusable. In some cases, I used some special classes for make our project more smoothly.)
+This project is coded by procedural way of PHP and MySql.
 
 
 ## Languages, that is used
@@ -12,7 +12,7 @@ PHP-MySql based Invenotry Manegement System
 - Java Script
 - jQuery
 - Carbon
-  - A special php class for handeling PHP Date and Time Smoothly. [Official Website] [https://github.com/briannesbitt/Carbon]. To know more, take a look [http://www.tisuchi.com/php-date-time-customization-carbon/]
+  - A special php class for handeling PHP Date and Time Smoothly.
 
 
 
@@ -30,21 +30,6 @@ Now you need to upload database tables in your database. I already extracted all
 > Password: password
 
 **in database, for all users, default password is 'password'**
-
-
-
-
-## What need to make a Complete Project
-In order to make a complete project of this inventory, you need to create **edit** & **delete** options of all the segments. 
-- Edit User 
-- Delete User
-- Edit Product Categorya
-- Delete Product Category
-- Edit Product
-- Delete Project
-
-
-Thank you.
 
 
 
